@@ -31,8 +31,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajayp007&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayp007&layout=compact&theme=tokyonight)   
+## 📈 My Coding Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ajayp007&theme=tokyonight&hide_border=true)  
+
+![Dart Projects](https://img.shields.io/badge/Dart%20Projects-5-blue?logo=dart)
+  
 
 </div>
 
