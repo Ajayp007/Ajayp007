@@ -11,9 +11,9 @@
 ---
 
 ## 🛠 Skills & Tools
-- **Languages:** Dart, Java, C  
+- **Languages:** Dart, c++, C  
 - **Frameworks:** Flutter, GetX, Provider, Firebase  
-- **Databases:** SQLite, Hive, Firebase Firestore  
+- **Databases:** SQLite, Firebase Firestore  
 - **Tools:** Android Studio, VS Code, Git, Postman  
 
 ---
@@ -22,7 +22,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **💬 Chat App** | Real-time messaging app with group & private chats, built using Flutter & Firebase. | [View Repo](https://github.com/Ajayp007/Chat-App) |
+| **💬 Chat App** | Real-time messaging app with group & private chats, built using Flutter & Firebase. | [View Repo](https://github.com/Ajayp007/chat_app) |
 | **🏏 Cricket App** | Live scores, match updates & news in a beautifully designed Flutter UI. | [View Repo](https://github.com/Ajayp007/Cricket-App) |
 | **🔄 Platform Converter** | Convert data and content formats between multiple platforms with ease. | [View Repo](https://github.com/Ajayp007/Platform-Converter) |
 | **🏙️ Sky Scraper App** | Tall building visualizer with animations & data insights in Flutter. | [View Repo](https://github.com/Ajayp007/Sky-Scraper-App) |
