@@ -2,10 +2,6 @@
 
 # 👋 Hi, I'm Ajay Purohit
 
-<p align="center">
-  <img src="https://github.com/Ajayp007.png" alt="Ajay's Profile Picture" width="120"/>
-</p>
-
 **Flutter Developer** | Passionate about crafting beautiful & functional mobile apps 🚀  
 
 ---
@@ -23,9 +19,9 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **💬 Chat App** | Real-time messaging app with group & private chats, built using Flutter & Firebase. | [View Repo](https://github.com/Ajayp007/chat_app) |
-| **🏏 Cricket App** | Live scores, match updates & news in a beautifully designed Flutter UI. | [View Repo](https://github.com/Ajayp007/Cricket-App) |
-| **🔄 Platform Converter** | Convert data and content formats between multiple platforms with ease. | [View Repo](https://github.com/Ajayp007/Platform-Converter) |
-| **🏙️ Sky Scraper App** | Tall building visualizer with animations & data insights in Flutter. | [View Repo](https://github.com/Ajayp007/Sky-Scraper-App) |
+| **🏏 Cricket App** | Live scores, match updates & news in a beautifully designed Flutter UI. | [View Repo](https://github.com/Ajayp007/cricket_app) |
+| **🔄 Platform Converter** | Convert data and content formats between multiple platforms with ease. | [View Repo](https://github.com/Ajayp007/platform_converter) |
+| **🏙️ Sky Scraper App** | Tall building visualizer with animations & data insights in Flutter. | [View Repo](https://github.com/Ajayp007/sky_scraper) |
 
 *(Replace the repo links with your actual repository URLs)*  
 
