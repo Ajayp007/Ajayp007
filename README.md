@@ -49,7 +49,7 @@ Here are some of my design works created in Figma:
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-purohit-b50648308/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaypurohit992@gmail.com?subject=Hello%20Ajay&body=I%20want%20to%20connect%20with%20you.)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ajaypurohit992@gmail.com&su=Hello%20Ajay&body=I%20want%20to%20connect%20with%20you.)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajay_purohit07/) 
 
 ---
