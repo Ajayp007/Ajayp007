@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Ajay Purohit
 
 **Flutter Developer** | Passionate about crafting beautiful & functional mobile apps 🚀  
