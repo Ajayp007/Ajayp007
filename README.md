@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 Skills & Tools
-- **Languages:** Dart, c++, C  
+- **Languages:** Dart, C++, C  
 - **Frameworks:** Flutter, GetX, Provider, Firebase  
 - **Databases:** SQLite, Firebase Firestore  
 - **Tools:** Android Studio, VS Code, Git, Postman
