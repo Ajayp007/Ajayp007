@@ -8,7 +8,8 @@
 - **Languages:** Dart, c++, C  
 - **Frameworks:** Flutter, GetX, Provider, Firebase  
 - **Databases:** SQLite, Firebase Firestore  
-- **Tools:** Android Studio, VS Code, Git, Postman  
+- **Tools:** Android Studio, VS Code, Git, Postman
+- **Design Tools:** Figma 🎨
 
 ---
 
@@ -24,6 +25,11 @@
 *(Replace the repo links with your actual repository URLs)*  
 
 ---
+## 🎨 UI/UX Designs (Figma)
+Here are some of my design works created in Figma:
+
+- [Ecommerce App UI](https://www.figma.com/design/BoR63ADOlG3m2Oo6uCPlh1/e-commerce?node-id=0-1&p=f&t=o73IFzfLl1qPrK5B-0)  
+- [Cricket App UI](https://www.figma.com/design/7wi6z4UY1OJFXYHStvMPnR/crickIndia?t=o73IFzfLl1qPrK5B-)  
 
 ## 📊 GitHub Stats & Activity
 
