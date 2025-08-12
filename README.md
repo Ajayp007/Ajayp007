@@ -35,14 +35,21 @@ Here are some of my design works created in Figma:
 
 <div align="center">
 
-## 📈 My Coding Stats
+## 📊 My GitHub Stats  
 
+<div align="center">
+
+<!-- Overall GitHub Stats -->
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajayp007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayp007&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ajayp007&theme=tokyonight&hide_border=true)
 
-![Dart Projects](https://img.shields.io/badge/Dart%20Projects-5-blue?logo=dart)
-  
-
 </div>
+
 
 ---
 
