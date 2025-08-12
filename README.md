@@ -37,7 +37,7 @@ Here are some of my design works created in Figma:
 
 ## 📈 My Coding Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ajayp007&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ajayp007&theme=tokyonight&hide_border=true)  
 
 ![Dart Projects](https://img.shields.io/badge/Dart%20Projects-5-blue?logo=dart)
   
