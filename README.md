@@ -45,6 +45,9 @@ Here are some of my design works created in Figma:
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayp007&layout=compact&theme=tokyonight&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ajayp007&label=Profile%20Views&color=0e75b6&style=flat)
+![Snake animation](https://raw.githubusercontent.com/Ajayp007/Ajayp007/output/github-contribution-grid-snake.svg)
+
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ajayp007&theme=tokyonight&hide_border=true)
 
