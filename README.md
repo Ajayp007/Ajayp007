@@ -42,7 +42,7 @@ Here are some of my design works created in Figma:
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ajayp007&theme=tokyonight&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ajayp007&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Ajayp007&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 
 </div>
 
