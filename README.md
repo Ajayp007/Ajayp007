@@ -21,8 +21,7 @@
 | **🏏 Cricket App** | Live scores, match updates & news in a beautifully designed Flutter UI. | [View Repo](https://github.com/Ajayp007/cricket_app) |
 | **🔄 Platform Converter** | Convert data and content formats between multiple platforms with ease. | [View Repo](https://github.com/Ajayp007/platform_converter) |
 | **🏙️ Sky Scraper App** | Tall building visualizer with animations & data insights in Flutter. | [View Repo](https://github.com/Ajayp007/sky_scraper) |
-
-*(Replace the repo links with your actual repository URLs)*  
+ 
 
 ---
 ## 🎨 UI/UX Designs (Figma)
